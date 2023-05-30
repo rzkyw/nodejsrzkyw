@@ -1,19 +1,18 @@
 {
-3    "name": "nodejsrzkyw",
-4    "version": "1.0.0",
-5    "description": "",
-6    "scripts": {
-9        "start": "node index.js"
-10    },
-11    "repository": {
-12        "type": "git",
-13        "url": "git+https://github.com/rzkyw/nodejsrzkyw.git"
-14    },
-15    "author": "",
-16    "license": "ISC",
-17    "bugs": {
-18        "url": "https://github.com/rzkyw/nodejsrzkyw/issues"
-19    },
-20    "homepage": "https://github.com/rzkyw/nodejsrzkyw#readme"
-21}
-22 
+  "name": "nodejsrzkyw",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+     "start": "node index.js"
+    },
+    "repository": {
+       "type": "git",
+      "url": "git+https://github.com/rzkyw/nodejsrzkyw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzkyw/nodejsrzkyw/issues"
+  },
+  "homepage": "https://github.com/rzkyw/nodejsrzkyw#readme"
+}
